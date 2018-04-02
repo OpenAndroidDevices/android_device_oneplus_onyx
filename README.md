@@ -1,6 +1,6 @@
-#Device tree for OnePlus X
+# OnePlus X (onyx) - Device
 
-###Syncing repo
+## Syncing repo
 Add this to your localmanifest
 ```xml
 <manifest>
@@ -11,9 +11,9 @@ Add this to your localmanifest
 </manifest>
 ```
 
-###Building
+## Building
 ```bash
 . build/envsetup.sh
 lunch cm_onyx-(eng|userdebug|user)
-make #recipe
+brunch onyx
 ```
