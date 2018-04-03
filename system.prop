@@ -3,8 +3,8 @@
 #
 
 #Device unified props
-ro.build.product=ONE
-ro.product.device=ONE
+ro.build.product=OnePlus
+ro.product.device=OnePlus
 
 ro.sf.lcd_density=480
 
